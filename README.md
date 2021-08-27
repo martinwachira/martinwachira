@@ -2,8 +2,6 @@
 
 ### :telephone_receiver: Call me Wachira, :relaxed: I like it more. 
 
-- :thinking: Who doesn't love Laravel? Anyway, Just choose your poison wisely. 
-
 - :boy: I'm currently kinda engaged in react, and it's amazing :ok_hand:. Also, continously :loop: learning :computer:. 
 
 - :watch: In free time, I engage myself in Data Scrapping and Soccer :soccer:
