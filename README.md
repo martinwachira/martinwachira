@@ -2,7 +2,7 @@
 
 ### :telephone_receiver: Call me Wachira, I like it more. 
 
-- :boy: I'm currently kinda engaged in react, and it's amazing :ok_hand:. Also, continously :loop: learning :computer:. 
+- :boy: I'm currently engaged in javascript|react, and it's amazing :ok_hand:. Also, continously :loop: learning :computer:. 
 
 - :watch: In free time, I engage myself in Data Scrapping and Soccer :soccer:
 
