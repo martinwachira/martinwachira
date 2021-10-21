@@ -4,7 +4,7 @@
 
 - :boy: I'm currently engaged in javascript|react, and it's amazing :ok_hand:. Also, continously :loop: learning :computer:. 
 
-- :watch: In free time, I engage myself in Data Scrapping and Soccer :soccer:
+- :watch: In free time, I acquaint myself with Data Scrapping and Soccer :soccer:
 
 <!-- :heavy_check_mark: [LinkedIn](https://www.linkedin.com/in/martin-wachira-82a243117/) - [![Linkedin URL](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_16x16.png?_ga=2.86489181.495291025.1613769379-1840968138.1613769379) ](https://www.linkedin.com/in/martin-wachira-82a243117/)
 
