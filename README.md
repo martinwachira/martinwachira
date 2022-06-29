@@ -1,8 +1,8 @@
 <!-- ⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖⁖ -->
 
-### :telephone_receiver: Call me Wachira, I like it more
+### :telephone_receiver: Call me Wachira
 
-- :boy: I'm currently engaged in javascript|react, and it's amazing :ok_hand:. Also, continously :loop: learning :computer:
+- :boy: Engaged in react (js/ts), nodejs, java and it's amazing :ok_hand:. Countinous :loop: learning :computer: (CL)
 
 - :watch: In free time, I acquaint myself with Data Scrapping and Soccer :soccer:
 
