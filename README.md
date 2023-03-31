@@ -2,7 +2,7 @@
 
 ### :telephone_receiver: Call me Wachira
 
-- :boy: Engaged in react (js/ts), nodejs, java and it's amazing :ok_hand:. countinous :loop: learning :computer: (CL)
+- :boy: Codes in react (js/ts), nodejs, java and it's amazing :ok_hand:. countinous :loop: learning :computer: (CL)
 
 - :watch: In free time, I acquaint myself with data scrapping, diameter charging and billing (what I actually do mostly) and soccer :soccer:
 
